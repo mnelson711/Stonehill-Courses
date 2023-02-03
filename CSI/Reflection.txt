@@ -1,0 +1,3 @@
+Assignment #2 Reflection
+
+For this weeks assignment, I was able to complete the warmup very easily. The PhoneCall assignment also wasn't bad although I had to review the switch statements again. For the friendly numbers problem, it took a bit of work to figure out how to split up the input number. Once I had that part down, the rest of the assignment was pretty straightforward. The toll free problem was a bit of a challenge as I had difficulty splitting up the phone number into different segments. The stocks problem wasn't bad I just had to be careful when writing the if statements. Overall, I feel confident with where I am at as I was able to do the entire assignment in about 2 hours.
